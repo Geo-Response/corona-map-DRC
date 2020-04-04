@@ -1,0 +1,7 @@
+{
+  "name": "geo-response",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
