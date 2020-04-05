@@ -1,0 +1,4482 @@
+[
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3827478,
+          4.0266345
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289899",
+        "amenity": "pharmacy",
+        "name": "Phamacie de L'hopital de district d'Okola",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4370021,
+          5.9866642
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1068916218",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4346599,
+          5.9874847
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069146913",
+        "amenity": "pharmacy",
+        "name": "Faith pharmacy",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4414882,
+          5.9962855
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069147032",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5148132,
+          3.846497
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "1987382968",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Olezoa",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5179855,
+          3.8710279
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "1993222656",
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4932952,
+          3.8503814
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2017553690",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Chapelle",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.550225,
+          3.8416617
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "2018349391",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de Nkomo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5027686,
+          3.8818777
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "2033098470",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Tsinga",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ef0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5346161,
+          3.8712872
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "2033671113",
+        "amenity": "pharmacy",
+        "name": "Mami Macta",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eef",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5045728,
+          3.8594758
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2033780266",
+        "amenity": "pharmacy",
+        "name": "Pharmacy de l'Université",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eee",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5211667,
+          3.8604354
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2033791377",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Moisson",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eed",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5192943,
+          3.8488518
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "2034139428",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Mvog-Atangana Mballa",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eec",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5167427,
+          3.825463
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "2040363224",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de l'Aéroport",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eeb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5179934,
+          3.889256
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "2044656924",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eea",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5483062,
+          3.8642374
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "2276045788",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Isis",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5491697,
+          3.8943449
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "2276189766",
+        "amenity": "pharmacy",
+        "name": "La Référence de NGOUSSO",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5452392,
+          3.8891163
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "2276189774",
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Stade",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4989103,
+          3.8528552
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2278895824",
+        "amenity": "pharmacy",
+        "name": "Pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5936877,
+          3.9672671
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750794",
+        "arr_osm_id": "3822513",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE09",
+        "dept_name": "Méfou-et-Afamba",
+        "arr_ref_cog": "CE09",
+        "arr_name": "Soa",
+        "osm_id": "2997531365",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Jireh",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4130095,
+          5.4808768
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "6312405",
+        "arr_osm_id": "3837420",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU01",
+        "dept_name": "Mifi",
+        "arr_ref_cog": "OU01",
+        "arr_name": "Bafoussam II",
+        "osm_id": "3021902094",
+        "amenity": "pharmacy",
+        "name": "Nouvelle Pharmacie du Bénin",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5181947,
+          3.8647393
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "3604839579",
+        "amenity": "pharmacy",
+        "name": "Saint Martin",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4970116,
+          3.8760709
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "3615214649",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Lyonnaise",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4926597,
+          3.8828222
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "4172532289",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Ketchy Madagascar",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4849664,
+          3.8372952
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "4262441358",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Biyem-assi Dr Tchachou Joseph",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ee0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5050912,
+          3.8722691
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "4361807957",
+        "amenity": "pharmacy",
+        "name": "pharmacie de la fidelite",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-edf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5159436,
+          3.8795091
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "4377493299",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Provinciale",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ede",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4010447,
+          5.8425896
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837752",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Balikumbat",
+        "osm_id": "4409603501",
+        "amenity": "pharmacy",
+        "name": "Pinpoh pharmaciy",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-edd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2589328,
+          5.6265722
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751222",
+        "arr_osm_id": "3837645",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU02",
+        "dept_name": "Bamboutos",
+        "arr_ref_cog": "OU02",
+        "arr_name": "Mbouda",
+        "osm_id": "4451085220",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-edc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8974652,
+          5.730071
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837277",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Foumban",
+        "osm_id": "4455269240",
+        "amenity": "pharmacy",
+        "name": "Pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-edb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9003082,
+          5.7310691
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837277",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Foumban",
+        "osm_id": "4455269250",
+        "amenity": "pharmacy",
+        "name": "Pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eda",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5799773,
+          3.8527373
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750794",
+        "arr_osm_id": "3822542",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE09",
+        "dept_name": "Méfou-et-Afamba",
+        "arr_ref_cog": "CE09",
+        "arr_name": "Nkolafamba",
+        "osm_id": "4470305284",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la liberté",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5217475,
+          3.8588989
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "4470330023",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de l'unité",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5857939,
+          3.8618534
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750794",
+        "arr_osm_id": "3822542",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE09",
+        "dept_name": "Méfou-et-Afamba",
+        "arr_ref_cog": "CE09",
+        "arr_name": "Nkolafamba",
+        "osm_id": "4470403349",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Ste Madeleine",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5364405,
+          3.8245838
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "4555768238",
+        "amenity": "pharmacy",
+        "name": "MINDILI",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5357759,
+          3.8849544
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "4591981089",
+        "amenity": "pharmacy",
+        "name": "PHARMACIE LA COLOMBE",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5208055,
+          5.1421589
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751228",
+        "arr_osm_id": "3837209",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU06",
+        "dept_name": "Ndé",
+        "arr_ref_cog": "OU06",
+        "arr_name": "Bangangté",
+        "osm_id": "4979030622",
+        "amenity": "pharmacy",
+        "name": "Pharmacie De L'espoir",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5422648,
+          3.9076768
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "5112556307",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bleue",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5461689,
+          3.9024161
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "5112556308",
+        "amenity": "pharmacy",
+        "name": "Phamacie Bayard",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5079212,
+          3.8857174
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "5177699233",
+        "amenity": "pharmacy",
+        "name": "Pharmacie 2000",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5053473,
+          3.5208244
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750798",
+        "arr_osm_id": "3822882",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE05",
+        "dept_name": "Nyong-et-So'o",
+        "arr_ref_cog": "CE05",
+        "arr_name": "Mbalmayo",
+        "osm_id": "5303143122",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vimli",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ed0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4928374,
+          3.8718871
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5555207930",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ecf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5204614,
+          3.9272773
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "5692876637",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ece",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5400568,
+          3.8736658
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "5702082026",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Populaire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ecd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5017314,
+          3.8626834
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "5776960932",
+        "amenity": "pharmacy",
+        "name": "Pharmacie EMIA",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ecc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4972547,
+          3.8641188
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5776961120",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Mandela",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ecb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.504311,
+          3.8722314
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5777057800",
+        "amenity": "pharmacy",
+        "name": "Pharmacie MESSA",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5031764,
+          3.8733533
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "5777057853",
+        "amenity": "pharmacy",
+        "name": "Pharmacie la Providence",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4917086,
+          3.856051
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "5777138819",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4956602,
+          3.8671488
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5777138820",
+        "amenity": "pharmacy",
+        "name": "Pharmacie des Sept Collines",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5351055,
+          4.1663908
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3823025",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Obala",
+        "osm_id": "6021352188",
+        "amenity": "pharmacy",
+        "name": "Afamba",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5342753,
+          4.1651556
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3823025",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Obala",
+        "osm_id": "6112301285",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Saint Thomas",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4885805,
+          3.8323132
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "6283070985",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bethesda",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.519731,
+          3.8636485
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6310400744",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Française",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5203653,
+          3.8662978
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6310433854",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de l'Intendance",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5241352,
+          3.87467
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6310583438",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5237932,
+          3.8712767
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6310583599",
+        "amenity": "pharmacy",
+        "name": "Le Mfoundi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ec0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5241083,
+          3.8643429
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6310687641",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vallée",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ebf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5185535,
+          3.8849407
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6311082085",
+        "amenity": "pharmacy",
+        "name": "Pharmacie des Lumiéres",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ebe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5065654,
+          3.8767252
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "6316081610",
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Verset",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ebd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5026849,
+          3.8874876
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6316081662",
+        "amenity": "pharmacy",
+        "name": "Pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ebc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5120367,
+          3.8921821
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6337753916",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bastos",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ebb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2467975,
+          3.7740327
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750797",
+        "arr_osm_id": "3822397",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE04",
+        "dept_name": "Nyong-et-Foumou",
+        "arr_ref_cog": "CE04",
+        "arr_name": "Akonolinga",
+        "osm_id": "6654796662",
+        "amenity": "pharmacy",
+        "name": "Pharmacie La santé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4854108,
+          3.8690857
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "6684209185",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5399297,
+          3.831293
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "6727115085",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Saint uriel",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5342397,
+          3.8864393
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7145774034",
+        "amenity": "pharmacy",
+        "name": "Capha Vet Sarl Pharmacie Vétérinaires",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4506443,
+          3.9005657
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164532395",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4506189,
+          3.880537
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164533753",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Du Bleu",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4607343,
+          3.889715
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164535317",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4549858,
+          3.8728824
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164537206",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Du Cypres",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4549969,
+          3.8972828
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164538741",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4679932,
+          3.8825423
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164542361",
+        "amenity": "pharmacy",
+        "name": "La Renaissance",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4754035,
+          3.8750506
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7192779250",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Oyomabang",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eb0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5492519,
+          3.8940859
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207625269",
+        "amenity": "pharmacy",
+        "name": "Pharmacie La Référence",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eaf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5490799,
+          3.8940031
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207625270",
+        "amenity": "pharmacy",
+        "name": "La Référence",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5447866,
+          3.8890955
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207653154",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ead",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5462451,
+          3.9024474
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207669077",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eac",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5342397,
+          3.886491
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207678393",
+        "amenity": "pharmacy",
+        "name": "Capha Vet Sarl Pharmacie Vétérinaires",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5322288,
+          3.8725178
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207680779",
+        "amenity": "pharmacy",
+        "name": "La Sante",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-eaa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5249993,
+          3.8625442
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207683699",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Montesquieu (espace Conseils)",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5399355,
+          3.8722753
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207683786",
+        "amenity": "pharmacy",
+        "name": "Dr.iguedo's Goko",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5277271,
+          3.8643785
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207684672",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Mvog Ada",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5295865,
+          3.8663421
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207684673",
+        "amenity": "pharmacy",
+        "name": "Pharmacie De L'arche",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5388462,
+          3.8813214
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207685052",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Le Bon Berger",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5568303,
+          3.9002316
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207686738",
+        "amenity": "pharmacy",
+        "name": "Pharmacie De La Rosée",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5498488,
+          3.8988725
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207690222",
+        "amenity": "pharmacy",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5216897,
+          3.8588385
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207697121",
+        "amenity": "pharmacy",
+        "name": "Pharmacie De L'unite Sarl",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5303784,
+          3.8618149
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207698014",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Le Cygne",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5583002,
+          3.8878926
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207698555",
+        "amenity": "pharmacy",
+        "name": "Complexe Miss Ngou",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-ea0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5517932,
+          3.8851982
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207700174",
+        "amenity": "pharmacy",
+        "name": "Pharmacie De La Cité",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5277825,
+          3.8689175
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207701109",
+        "amenity": "pharmacy",
+        "name": "Médicament Vétérinaire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e9e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5496417,
+          3.8785935
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207703602",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Du Lycée Bilingue",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e9d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5474852,
+          3.8867912
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207705090",
+        "amenity": "pharmacy",
+        "name": "Phamarcie Athera",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5665114,
+          3.9071578
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207711955",
+        "amenity": "pharmacy",
+        "name": "Pro-pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e9b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5423141,
+          3.9077484
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207712057",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bleue Plus Sarl",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e9a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5616834,
+          3.9128037
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207713949",
+        "amenity": "pharmacy",
+        "name": "Santé St Victor",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56052,
+          3.924255
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7207718237",
+        "amenity": "pharmacy",
+        "name": "La Médecine Naturelle De Maman Nettoyage",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.763,
+          4.087
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Notre Dame Victoire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.755,
+          4.085
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Makepe",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.696,
+          4.036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Koumassi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.651,
+          4.096
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De L'Amour",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.048
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Bon Secour",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          4.055
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Carrefour Zacheman Ndogbong",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.719,
+          4.052
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Sante Pour Tous",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.762,
+          4.002
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Shekinah",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.703,
+          4.052
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Jamot",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e8f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.703,
+          4.022
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Bonadouma",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e8e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.705,
+          4.046
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Les Sapeurs",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e8d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.76,
+          4.066
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Sacre Coeur",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e8c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.747,
+          4.009
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Sainte Marie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e8b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.743,
+          4.064
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie France Augustin",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e8a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.736,
+          4.02
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Les Jumelles",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693,
+          4.04
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De La Cote De Bali",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.766,
+          4.06
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Santa Rosa",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.699,
+          4.025
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Bonapriso",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.666,
+          4.08
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Baccarat",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.651,
+          4.067
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Mambanda Nkomba",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.719,
+          4.071
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Axiale",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.713,
+          4.056
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De La Gare",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.71,
+          4.043
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De L'Alliance",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.683,
+          4.071
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Du Pont",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.715,
+          4.064
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie La Coupole",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e7f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.717,
+          4.073
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Akwa Nord",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e7e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.742,
+          4.041
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e7d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.726,
+          4.07
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Des Lilas",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.725,
+          4.073
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Les Oliviers",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e7b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.057
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De La Trinite",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e7a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7,
+          4.027
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Njo Njo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.735,
+          4.025
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Du Genie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.777,
+          4.051
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Carrefour Pk11",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693,
+          4.025
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Des Fleurs",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79,
+          4.031
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Louxia",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.672,
+          4.075
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Bonaberi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.726,
+          4.034
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Du Salut",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.743,
+          4.092
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Les Vertus",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728,
+          4.028
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Nylon",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.729,
+          4.066
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De L'Horizon",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.71,
+          4.058
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Mondial",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e6f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.676,
+          4.074
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Bonambape",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e6e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.678,
+          4.071
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Lloyds",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e6d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.741,
+          4.049
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Le Rocher",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e6c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.701,
+          4.049
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Des Hopitaux",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e6b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.658,
+          4.094
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie   Geena",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e6a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.735,
+          4.087
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Bonamoussadi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.697,
+          4.029
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Du Plateau",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.709,
+          4.067
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Kd",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761,
+          4.038
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.704,
+          4.049
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De L'Arc",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.732,
+          4.046
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Cosmos",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.725,
+          4.06
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Gabriel",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.66,
+          4.092
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Sodiko",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.748,
+          4.052
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Ndogbong",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.696,
+          4.032
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Gabelou",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75,
+          4.092
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Kotto",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e5f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.696,
+          4.024
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie De Gaulle",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e5e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.736,
+          4.053
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Le Campus",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e5d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.699,
+          4.055
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Concorde",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e5c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.741,
+          4.09
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Fleuron",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e5b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.722,
+          4.057
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie  Sass",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pharmacies.fid--79f94bfd_17118e3b9c7_-e5a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.745,
+          4.044
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Pharmacies",
+        "name": "Pharmacie Saint Michel",
+        "_predicate": "INTERSECTS"
+      }
+    }
+  ]

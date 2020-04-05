@@ -1,0 +1,1850 @@
+[
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5146396,
+          3.8909103
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "420427574",
+        "amenity": "police",
+        "name": "Commisariat sécurité publique du 10è arrondissement",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5176173,
+          5.8932121
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "976599054",
+        "amenity": "police",
+        "name": "National Gendarmarie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3831008,
+          4.0223247
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289769",
+        "amenity": "police",
+        "name": "Poste de Surveillance de la Gendarmeries et de municipalite",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3831615,
+          4.0219908
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289971",
+        "amenity": "police",
+        "name": "Gendarmerie d'Okola",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4434368,
+          5.9998552
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069053712",
+        "amenity": "police",
+        "name": "Gendamarie Companie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4391998,
+          5.9904296
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069053768",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4463903,
+          6.0007752
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069053778",
+        "amenity": "police",
+        "name": "Gendamarie Brigade Ndop",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4375471,
+          5.9909387
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069147044",
+        "amenity": "police",
+        "name": "Police post",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5042186,
+          3.8576484
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2033743370",
+        "amenity": "police",
+        "name": "Commissariat spécial",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.504304,
+          3.857845
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2033747985",
+        "amenity": "police",
+        "name": "Commissariat 5ième",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e4f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5136516,
+          3.8442882
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2033984240",
+        "amenity": "police",
+        "name": "Poste de Police Mobile d'Olézoa",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e4e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5093792,
+          3.8351353
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2283368363",
+        "amenity": "police",
+        "name": "Commissariat 7ième",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5065362,
+          3.8347601
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2283368364",
+        "amenity": "police",
+        "name": "Gendarmerie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e4c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5303049,
+          3.9165971
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "2283406712",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e4b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5192296,
+          3.883427
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "2283552277",
+        "amenity": "police",
+        "name": "Commissanat Special Yaoundé 1",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e4a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5026009,
+          3.8696651
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "2283571366",
+        "amenity": "police",
+        "name": "Gendarmerie Nationale",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175657,
+          3.8696763
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "2283620503",
+        "amenity": "police",
+        "name": "Commissariat Central",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.528489,
+          3.8744009
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "2283620504",
+        "amenity": "police",
+        "name": "Police Scientifique et Technique",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5214215,
+          3.8506759
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "2284012112",
+        "amenity": "police",
+        "name": "Poste de Police",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5088775,
+          3.8352663
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2304354422",
+        "amenity": "police",
+        "name": "Commissariat Central n°3",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.470681,
+          3.7880222
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2304354423",
+        "amenity": "police",
+        "name": "Poste de police N°1 du GMI",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30763,
+          3.60033
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750795",
+        "arr_osm_id": "3822931",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE10",
+        "dept_name": "Méfou-et-Akono",
+        "arr_ref_cog": "CE10",
+        "arr_name": "Ngoumou",
+        "osm_id": "2898221022",
+        "amenity": "police",
+        "name": "Gendarmerie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5043261,
+          3.8578422
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "3598247000",
+        "amenity": "police",
+        "name": "Commissariat de sécurité publique du 5è arrondissement",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2412008,
+          5.4689108
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751226",
+        "arr_osm_id": "3837617",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU05",
+        "dept_name": "Menoua",
+        "arr_ref_cog": "OU05",
+        "arr_name": "Penka-Michel",
+        "osm_id": "3804182269",
+        "amenity": "police",
+        "name": "Gendarmerie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6112115,
+          5.655269
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837313",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Kouoptamo",
+        "osm_id": "3810629811",
+        "amenity": "police",
+        "name": "Comissariat Spécial de kouoptamo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6112577,
+          5.6552506
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837313",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Kouoptamo",
+        "osm_id": "3810629812",
+        "amenity": "police",
+        "name": "Comissariat de Sécurité Publique de Kouoptamo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e3f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5193491,
+          3.8601622
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "4189758189",
+        "amenity": "police",
+        "name": "INTERPOL Regional Bureau",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e3e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3687166,
+          5.3346983
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751224",
+        "arr_osm_id": "3837527",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU08",
+        "dept_name": "Hauts-Plateaux",
+        "arr_ref_cog": "OU08",
+        "arr_name": "Baham",
+        "osm_id": "4336501489",
+        "amenity": "police",
+        "name": "sécurité public",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e3d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5178814,
+          3.8681756
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "4338286744",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e3c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33071,
+          5.3896528
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751224",
+        "arr_osm_id": "3837509",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU08",
+        "dept_name": "Hauts-Plateaux",
+        "arr_ref_cog": "OU08",
+        "arr_name": "Bamendjou",
+        "osm_id": "4361327190",
+        "amenity": "police",
+        "name": "Gendarmerie brigade Bamendjou",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e3b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5221629,
+          3.7979758
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "4407233298",
+        "amenity": "police",
+        "name": "Comissariat central numéro 4",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e3a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2157014,
+          4.0677042
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750738",
+        "dept_osm_id": "2750740",
+        "arr_osm_id": "3820315",
+        "boundary": "administrative",
+        "reg_ref_cog": "ES",
+        "reg_name": "Est",
+        "dept_ref_cog": "ES03",
+        "dept_name": "Haut-Nyong",
+        "arr_ref_cog": "ES03",
+        "arr_name": "Doumaintang",
+        "osm_id": "4746509918",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0989192,
+          4.8602844
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750792",
+        "arr_osm_id": "3823205",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE07",
+        "dept_name": "Mbam-et-Inoubou",
+        "arr_ref_cog": "CE07",
+        "arr_name": "Kon-Yambetta",
+        "osm_id": "4873588922",
+        "amenity": "police",
+        "name": "Brigade De Kon-Yambetta",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5163947,
+          3.8795166
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "4990494829",
+        "amenity": "police",
+        "name": "Commissariat emi-immigration Yaoundé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5163559,
+          3.8791875
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "4990494830",
+        "amenity": "police",
+        "name": "Commissariat central numéro 1 de Yaoundé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4120764,
+          3.8345335
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750983",
+        "arr_osm_id": "3830950",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT04",
+        "dept_name": "Sanaga-Maritime",
+        "arr_ref_cog": "LT04",
+        "arr_name": "Ngwei",
+        "osm_id": "5073734622",
+        "amenity": "police",
+        "name": "Limite 50",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4260876,
+          3.8364205
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750983",
+        "arr_osm_id": "3830950",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT04",
+        "dept_name": "Sanaga-Maritime",
+        "arr_ref_cog": "LT04",
+        "arr_name": "Ngwei",
+        "osm_id": "5073785221",
+        "amenity": "police",
+        "name": "limite 30",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5007726,
+          3.8489056
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750983",
+        "arr_osm_id": "3830937",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT04",
+        "dept_name": "Sanaga-Maritime",
+        "arr_ref_cog": "LT04",
+        "arr_name": "Pouma",
+        "osm_id": "5073787122",
+        "amenity": "police",
+        "name": "radar",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5118107,
+          3.8511529
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750983",
+        "arr_osm_id": "3830937",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT04",
+        "dept_name": "Sanaga-Maritime",
+        "arr_ref_cog": "LT04",
+        "arr_name": "Pouma",
+        "osm_id": "5073843621",
+        "amenity": "police",
+        "name": "limite 60",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4313292,
+          3.7882772
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750795",
+        "arr_osm_id": "3822961",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE10",
+        "dept_name": "Méfou-et-Akono",
+        "arr_ref_cog": "CE10",
+        "arr_name": "Mbankomo",
+        "osm_id": "5074094921",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9560377,
+          3.3465385
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750833",
+        "dept_osm_id": "2750834",
+        "arr_osm_id": "3824015",
+        "boundary": "administrative",
+        "reg_ref_cog": "SU",
+        "reg_name": "Sud",
+        "dept_ref_cog": "SU02",
+        "dept_name": "Dja-et-Lobo",
+        "arr_ref_cog": "SU02",
+        "arr_name": "Zoétélé",
+        "osm_id": "5469164413",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1267411,
+          4.5091911
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750790",
+        "arr_osm_id": "3822302",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE03",
+        "dept_name": "Haute-Sanaga",
+        "arr_ref_cog": "CE03",
+        "arr_name": "Nkoteng",
+        "osm_id": "5555956909",
+        "amenity": "police",
+        "name": "Escadron mobile de nkoteng",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e2f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5069757,
+          3.8683357
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "5776915855",
+        "amenity": "police",
+        "name": "Gendarmerie Legion du Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e2e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5052296,
+          3.8692041
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5776915857",
+        "amenity": "police",
+        "name": "Gendamerie Nationale SED",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e2d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4966533,
+          3.8639101
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "5777010153",
+        "amenity": "police",
+        "name": "Poste de police de Melen",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e2c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5003889,
+          3.8738585
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "5777057823",
+        "amenity": "police",
+        "name": "Commissariat du 2éme Arrondissement",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e2b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5373746,
+          3.8438022
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "5890542693",
+        "amenity": "police",
+        "name": "Commissariat Central No 4",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e2a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5373549,
+          3.8440036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "5890572585",
+        "amenity": "police",
+        "name": "Hôtel de Police d'Ekiunou",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4530035,
+          3.698324
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750796",
+        "arr_osm_id": "3823522",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE02",
+        "dept_name": "Nyong-et-Kéllé",
+        "arr_ref_cog": "CE02",
+        "arr_name": "Messondo",
+        "osm_id": "6077782233",
+        "amenity": "police",
+        "name": "Brigade de Genarmerie de Messondo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5345756,
+          4.1693708
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3823025",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Obala",
+        "osm_id": "6130025985",
+        "amenity": "police",
+        "name": "Hôtel de Police d'Obala",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5163621,
+          3.8793852
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6311081031",
+        "amenity": "police",
+        "name": "Division spéciale de contrôle des services",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5120907,
+          3.89597
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6354210805",
+        "amenity": "police",
+        "name": "Poste de gendarmerie de bastos",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5116858,
+          3.8991136
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6650381169",
+        "amenity": "police",
+        "name": "ANTIC",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2419776,
+          3.7833518
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750797",
+        "arr_osm_id": "3822397",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE04",
+        "dept_name": "Nyong-et-Foumou",
+        "arr_ref_cog": "CE04",
+        "arr_name": "Akonolinga",
+        "osm_id": "6654796664",
+        "amenity": "police",
+        "name": "Gendarmerie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4266691,
+          3.8692509
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7162049122",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4548235,
+          3.8757511
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7162052207",
+        "amenity": "police",
+        "name": "Brigade De Nkolbisson",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4135504,
+          3.8748867
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164795279",
+        "amenity": "police",
+        "name": "Poste De Contrôle Forestier Et De Chasse De Nkolbissong",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4675686,
+          3.8827545
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164804894",
+        "amenity": "police",
+        "name": "Poste De Police",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e1f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4510262,
+          3.9003051
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164806531",
+        "amenity": "police",
+        "name": "Poste De Contrôle Forestier Et De Chasse De Nkolbisson",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e1e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4632735,
+          3.8722764
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7164816689",
+        "amenity": "police",
+        "name": "Poste De Police D'oyom Abang",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e1d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5570841,
+          3.8847661
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181552177",
+        "amenity": "police",
+        "name": "Gendarmerie Nationale Brigade De Nkolmesseng",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e1c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5524754,
+          3.9300603
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "7181553601",
+        "amenity": "police",
+        "name": "Compagnie De Yaoundé lll",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e1b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5447453,
+          3.9095546
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181557483",
+        "amenity": "police",
+        "name": "Commissariat",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e1a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5388454,
+          3.9220352
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7211213641",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5407056,
+          3.8972846
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7211214836",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "police.fid--79f94bfd_17118e3b9c7_-e18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5428611,
+          3.8878765
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7211236602",
+        "amenity": "police",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    }
+  ]

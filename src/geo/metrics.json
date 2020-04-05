@@ -1,0 +1,212 @@
+[
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af3",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        14.53220433,
+        11.08011398
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2749663",
+      "reg_ref_cog": "EN",
+      "name": "Extrême-Nord",
+      "pop_estim_2020": "4482315",
+      "nombre_total_de_cas": 0,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af4",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.9403446,
+        8.4870806
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750662",
+      "reg_ref_cog": "NO",
+      "name": "Nord",
+      "pop_estim_2020": "2889247",
+      "nombre_total_de_cas": 0,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af5",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.13948366,
+        6.84854237
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750694",
+      "reg_ref_cog": "AD",
+      "name": "Adamaoua",
+      "pop_estim_2020": "1360655",
+      "nombre_total_de_cas": 0,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af6",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        14.2208227,
+        3.79718331
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750738",
+      "reg_ref_cog": "ES",
+      "name": "Est",
+      "pop_estim_2020": "1016707",
+      "nombre_total_de_cas": 0,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af7",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.82251068,
+        4.66368339
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750789",
+      "reg_ref_cog": "CE",
+      "name": "Centre",
+      "pop_estim_2020": "5403531",
+      "nombre_total_de_cas": 228,
+      "nombre_de_victimes": 5,
+      "nombre_de_personnes_retablies": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af8",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.49742223,
+        2.75895696
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750833",
+      "reg_ref_cog": "SU",
+      "name": "Sud",
+      "pop_estim_2020": "927007",
+      "nombre_total_de_cas": 0,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_af9",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.05284847,
+        4.18565951
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750851",
+      "reg_ref_cog": "LT",
+      "name": "Littoral",
+      "pop_estim_2020": "4222616",
+      "nombre_total_de_cas": 48,
+      "nombre_de_victimes": 1,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_afa",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.36935501,
+        6.36567957
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750874",
+      "reg_ref_cog": "NW",
+      "name": "Nord-Ouest",
+      "pop_estim_2020": "2186144",
+      "nombre_total_de_cas": 0,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_afb",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.23732658,
+        5.0834997
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "2750875",
+      "reg_ref_cog": "SW",
+      "name": "Sud-Ouest",
+      "pop_estim_2020": "1822484",
+      "nombre_total_de_cas": 2,
+      "nombre_de_victimes": 1,
+      "nombre_de_personnes_retablies": 0
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "region_view.fid--79f94bfd_17118e3b9c7_afc",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.64917038,
+        5.49802585
+      ]
+    },
+    "geometry_name": "st_centroid",
+    "properties": {
+      "osm_id": "6312404",
+      "reg_ref_cog": "OU",
+      "name": "Ouest",
+      "pop_estim_2020": "2022251",
+      "nombre_total_de_cas": 6,
+      "nombre_de_victimes": 0,
+      "nombre_de_personnes_retablies": 0
+    }
+  }
+]

@@ -1,0 +1,6134 @@
+[
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fd4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175834,
+          3.8570057
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "419588091",
+        "amenity": "hospital",
+        "name": "Centre Médico Social français",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fd3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4755713,
+          5.8939888
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "976599036",
+        "amenity": "hospital",
+        "name": "Integrated Health Centre Mighang-Mbaw",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fd2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5229588,
+          5.8910856
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "976599047",
+        "amenity": "hospital",
+        "name": "Health Centre Mbatonoh",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fd1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5355739,
+          5.8893875
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "976652143",
+        "amenity": "hospital",
+        "name": "Rawado Philantropic Rural Hospital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fd0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3022811,
+          4.1191221
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822995",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Evodoula",
+        "osm_id": "1007095663",
+        "amenity": "hospital",
+        "name": "Centre de Sante de Ebougsi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fcf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4299586,
+          4.0600036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1007095698",
+        "amenity": "hospital",
+        "name": "Centre de Sante integre de Mvoua",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fce",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3382234,
+          4.0771703
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1007095970",
+        "amenity": "hospital",
+        "name": "Centre de Sante de Konabeng",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fcd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3074379,
+          4.064264
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1013434160",
+        "amenity": "hospital",
+        "name": "Centre de Sante Intergre de Song-Onana",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fcc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2190769,
+          4.0200146
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1013434290",
+        "amenity": "hospital",
+        "name": "Centre de Sante Intergre de VOA II",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fcb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2096507,
+          4.0767644
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1013434376",
+        "amenity": "hospital",
+        "name": "Central Medical de Nkol Poblo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fca",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5229233,
+          5.8914357
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1067136118",
+        "amenity": "hospital",
+        "name": "Bambalang Health Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4441959,
+          3.9296841
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067272297",
+        "amenity": "hospital",
+        "name": "Centre de sante de Leboudi I",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4458178,
+          3.9214731
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067272364",
+        "amenity": "hospital",
+        "name": "Centre de sante et formation Ave Maria de Leboudi I",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4520951,
+          3.962398
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067272474",
+        "amenity": "hospital",
+        "name": "Centre de sante de Ngoya I",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.468383,
+          3.9937291
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067272497",
+        "amenity": "hospital",
+        "name": "Centre de sante Integre de Yegassi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.412775,
+          3.9983989
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067272619",
+        "amenity": "hospital",
+        "name": "Centre de sante integre de Lebot",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1907627,
+          4.0440893
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067284263",
+        "amenity": "hospital",
+        "name": "Centre de Sante Intergre de Fegmimbang",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2469345,
+          4.0430667
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067284449",
+        "amenity": "hospital",
+        "name": "Centre de Sante Intergre de Nyemeyon",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3224815,
+          4.0147136
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289748",
+        "amenity": "hospital",
+        "name": "Centre de Sante Integre de Ntuissong",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3608778,
+          3.9632157
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289788",
+        "amenity": "hospital",
+        "name": "Centre de Sante Integre de Nkoldjobe",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fc0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.318206,
+          4.0419683
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289852",
+        "amenity": "hospital",
+        "name": "Centren de Sante Integre de Ntuissong",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fbf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3828929,
+          4.0265061
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3822978",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Okala",
+        "osm_id": "1067289854",
+        "amenity": "hospital",
+        "name": "Hopital de District d'Okola",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fbe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4437569,
+          5.9860348
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1068916126",
+        "amenity": "hospital",
+        "name": "St.John the Baptist Catholic Health Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fbd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4446815,
+          6.0008731
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069053734",
+        "amenity": "hospital",
+        "name": "Ndop District Hospital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fbc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4875384,
+          5.9741739
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069081719",
+        "amenity": "hospital",
+        "name": "Bamunka Rural Health Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fbb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4326955,
+          5.9856367
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069146931",
+        "amenity": "hospital",
+        "name": "Bamunka Health Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fba",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3654982,
+          5.9994662
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751402",
+        "arr_osm_id": "3837924",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW01",
+        "dept_name": "Mezam",
+        "arr_ref_cog": "NW01",
+        "arr_name": "Tubah",
+        "osm_id": "1069886037",
+        "amenity": "hospital",
+        "name": "St.Theresia's Catholic Health Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3932215,
+          5.980895
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1069886474",
+        "amenity": "hospital",
+        "name": "Nightingale Marternity Home",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4221235,
+          5.9453343
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1078375948",
+        "amenity": "hospital",
+        "name": "Health Centre Mbekut",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4465518,
+          5.9442006
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751404",
+        "arr_osm_id": "3837753",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW07",
+        "dept_name": "Ngoketunjia",
+        "arr_ref_cog": "NW07",
+        "arr_name": "Ndop",
+        "osm_id": "1078434886",
+        "amenity": "hospital",
+        "name": "Health Centre Mbongousalle",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4858898,
+          3.8324013
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "2263245273",
+        "amenity": "hospital",
+        "name": "Cabinet de soins CINSOL",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5060201,
+          3.8343137
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "2283555316",
+        "amenity": "hospital",
+        "name": "Hôpital d'EFOULAN",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.502893,
+          3.8698391
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "2284209683",
+        "amenity": "hospital",
+        "name": "Camp Yeyap 2",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3138918,
+          5.3071766
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751224",
+        "arr_osm_id": "3837529",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU08",
+        "dept_name": "Hauts-Plateaux",
+        "arr_ref_cog": "OU08",
+        "arr_name": "Batié",
+        "osm_id": "2344205652",
+        "amenity": "hospital",
+        "name": "Hôpital de Tchomso",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.389764,
+          5.1783589
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751224",
+        "arr_osm_id": "3837528",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU08",
+        "dept_name": "Hauts-Plateaux",
+        "arr_ref_cog": "OU08",
+        "arr_name": "Bangou",
+        "osm_id": "2521654761",
+        "amenity": "hospital",
+        "name": "Clinique La Life",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2503667,
+          4.6082743
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750792",
+        "arr_osm_id": "5621205",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE07",
+        "dept_name": "Mbam-et-Inoubou",
+        "arr_ref_cog": "CE07",
+        "arr_name": "Ombessa",
+        "osm_id": "2739499058",
+        "amenity": "hospital",
+        "name": "Dispensaire des soeurs",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fb0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3472392,
+          5.9712278
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750874",
+        "dept_osm_id": "2751402",
+        "arr_osm_id": "3837924",
+        "boundary": "administrative",
+        "reg_ref_cog": "NW",
+        "reg_name": "Nord-Ouest",
+        "dept_ref_cog": "NW01",
+        "dept_name": "Mezam",
+        "arr_ref_cog": "NW01",
+        "arr_name": "Tubah",
+        "osm_id": "3114824092",
+        "amenity": "hospital",
+        "name": "Bamessing Health Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-faf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5701669,
+          4.0536876
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750983",
+        "arr_osm_id": "3830924",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT04",
+        "dept_name": "Sanaga-Maritime",
+        "arr_ref_cog": "LT04",
+        "arr_name": "Massok",
+        "osm_id": "3206102801",
+        "amenity": "hospital",
+        "name": "Centre de santé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fae",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6122833,
+          5.6544123
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837313",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Kouoptamo",
+        "osm_id": "3810629796",
+        "amenity": "hospital",
+        "name": "Hopital de District de kouoptamo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fad",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6134678,
+          5.652133
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837313",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Kouoptamo",
+        "osm_id": "3810629803",
+        "amenity": "hospital",
+        "name": "Centre de Santé des Soeurs",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fac",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3755433,
+          5.3302555
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751224",
+        "arr_osm_id": "3837527",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU08",
+        "dept_name": "Hauts-Plateaux",
+        "arr_ref_cog": "OU08",
+        "arr_name": "Baham",
+        "osm_id": "4336501689",
+        "amenity": "hospital",
+        "name": "hopital de baham",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fab",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5056225,
+          3.8716126
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "4361807958",
+        "amenity": "hospital",
+        "name": "SIDJE LOIC",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-faa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4190031,
+          5.4347125
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751225",
+        "arr_osm_id": "3837460",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU07",
+        "dept_name": "Nkoung-Khi",
+        "arr_ref_cog": "OU07",
+        "arr_name": "Pete-Bandjoun",
+        "osm_id": "4404298342",
+        "amenity": "hospital",
+        "name": "Hôpital Protestant de Mbouo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4800621,
+          3.8002482
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "4576672190",
+        "amenity": "hospital",
+        "name": "Hadassah Medical Center( HMC)",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4729424,
+          3.8367182
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "4676337189",
+        "amenity": "hospital",
+        "name": "Centre de Santé \"Le Polyvalent\"",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4786407,
+          3.8341433
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "4757488823",
+        "amenity": "hospital",
+        "name": "Clinique St Christine",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.415428,
+          3.5285286
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750795",
+        "arr_osm_id": "3822908",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE10",
+        "dept_name": "Méfou-et-Akono",
+        "arr_ref_cog": "CE10",
+        "arr_name": "Bikok",
+        "osm_id": "4779292130",
+        "amenity": "hospital",
+        "name": "Centre de Santé Catholique de Bikop",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5041879,
+          3.5278519
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750798",
+        "arr_osm_id": "3822882",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE05",
+        "dept_name": "Nyong-et-So'o",
+        "arr_ref_cog": "CE05",
+        "arr_name": "Mbalmayo",
+        "osm_id": "4779498622",
+        "amenity": "hospital",
+        "name": "hôpital saint Luc",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.502291,
+          3.8121305
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "4883735221",
+        "amenity": "hospital",
+        "name": "Fondation médico-chirurgicale Maria Rosa Nsisim",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5042131,
+          3.5197604
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750798",
+        "arr_osm_id": "3822882",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE05",
+        "dept_name": "Nyong-et-So'o",
+        "arr_ref_cog": "CE05",
+        "arr_name": "Mbalmayo",
+        "osm_id": "4943776121",
+        "amenity": "hospital",
+        "name": "Mbalmayo district hospital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4317289,
+          5.4953012
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "6312405",
+        "arr_osm_id": "3837420",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU01",
+        "dept_name": "Mifi",
+        "arr_ref_cog": "OU01",
+        "arr_name": "Bafoussam II",
+        "osm_id": "4995374428",
+        "amenity": "hospital",
+        "name": "Centre medico chirurgical maetur",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4670443,
+          3.8345752
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5035367130",
+        "amenity": "hospital",
+        "name": "Ngog Lituba",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-fa0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7356936,
+          3.3894336
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750738",
+        "dept_osm_id": "2750740",
+        "arr_osm_id": "3820212",
+        "boundary": "administrative",
+        "reg_ref_cog": "ES",
+        "reg_name": "Est",
+        "dept_ref_cog": "ES03",
+        "dept_name": "Haut-Nyong",
+        "arr_ref_cog": "ES03",
+        "arr_name": "Somalomo",
+        "osm_id": "5291343942",
+        "amenity": "hospital",
+        "name": "Centre médical d'arrondissement de Somalomo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4832831,
+          3.8498113
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5345511021",
+        "amenity": "hospital",
+        "name": "Etoug-Ebe Baptist Hospital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f9e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4853218,
+          3.8475143
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5345511022",
+        "amenity": "hospital",
+        "name": "Etoug-Ebe Baptist Hospital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f9d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5490721,
+          3.8928614
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "5476667261",
+        "amenity": "hospital",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f9c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5487163,
+          3.893107
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "5476667262",
+        "amenity": "hospital",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f9b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3251102,
+          5.31602
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751224",
+        "arr_osm_id": "3837529",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU08",
+        "dept_name": "Hauts-Plateaux",
+        "arr_ref_cog": "OU08",
+        "arr_name": "Batié",
+        "osm_id": "5625462824",
+        "amenity": "hospital",
+        "name": "Hopital d'arrondissement de Batié",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f9a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4992709,
+          3.8636288
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5695789322",
+        "amenity": "hospital",
+        "name": "GT labo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4714378,
+          3.8265039
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5774855583",
+        "amenity": "hospital",
+        "name": "Centre de Santé communal",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4691197,
+          3.8251243
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "5774867407",
+        "amenity": "hospital",
+        "name": "Centre de Santé les merveilles",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5505895,
+          3.8728895
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "5824969053",
+        "amenity": "hospital",
+        "name": "African Genesic Health Center",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4627861,
+          4.4296635
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3823017",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Sa'a",
+        "osm_id": "6008772486",
+        "amenity": "hospital",
+        "name": "Centre de Santé Intégré Catholique de Mvom Nam",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4158127,
+          4.4002967
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3823017",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Sa'a",
+        "osm_id": "6008772785",
+        "amenity": "hospital",
+        "name": "Centre de Santé Intégré Catholique de Nkol Mebanga",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5412458,
+          4.1737812
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750791",
+        "arr_osm_id": "3823025",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE06",
+        "dept_name": "Lekié",
+        "arr_ref_cog": "CE06",
+        "arr_name": "Obala",
+        "osm_id": "6122819987",
+        "amenity": "hospital",
+        "name": "Centre de Santé Intégré Catholique Saint Jacques de Minkama",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5127036,
+          3.8689298
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "6308090915",
+        "amenity": "hospital",
+        "name": "Croix Rouge Camerounaise",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5174296,
+          3.8753022
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6308170741",
+        "amenity": "hospital",
+        "name": "Croix Rouge Camerounaise",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5246139,
+          3.8700056
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6310583395",
+        "amenity": "hospital",
+        "name": "Hôpital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5161033,
+          3.8822432
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6311082097",
+        "amenity": "hospital",
+        "name": "Centre Médical Le Jourdain",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f8f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5028143,
+          3.8848671
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "6316081642",
+        "amenity": "hospital",
+        "name": "G.T LABO",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f8e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5087594,
+          3.8945463
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6337731205",
+        "amenity": "hospital",
+        "name": "Groupe médical st hilaire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f8d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5081619,
+          3.8842081
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "6337762588",
+        "amenity": "hospital",
+        "name": "Hôpital Bethesda",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f8c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.552321,
+          3.9316034
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6360603408",
+        "amenity": "hospital",
+        "name": "FONDATION MERE MARTINE",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f8b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2531207,
+          3.7794783
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750797",
+        "arr_osm_id": "3822397",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE04",
+        "dept_name": "Nyong-et-Foumou",
+        "arr_ref_cog": "CE04",
+        "arr_name": "Akonolinga",
+        "osm_id": "6388884420",
+        "amenity": "hospital",
+        "name": "Hôpital de district d'Akonolinga",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f8a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3886389,
+          5.4444678
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "6312405",
+        "arr_osm_id": "3837421",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU01",
+        "dept_name": "Mifi",
+        "arr_ref_cog": "OU01",
+        "arr_name": "Bafoussam III",
+        "osm_id": "6745200087",
+        "amenity": "hospital",
+        "name": "Hôpital Catholique de Djunang",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.502206,
+          3.8697945
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7131506168",
+        "amenity": "hospital",
+        "name": "sainte therese hopital",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.515339,
+          3.8725126
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "7131643329",
+        "amenity": "hospital",
+        "name": "Heiligergeist",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.512443,
+          3.8735888
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3096099",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé II",
+        "osm_id": "7131683224",
+        "amenity": "hospital",
+        "name": "CHU",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4696949,
+          3.8764355
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153560046",
+        "amenity": "hospital",
+        "name": "Fondation Grace Divine",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4719683,
+          3.8781281
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153560047",
+        "amenity": "hospital",
+        "name": "Centre Médical Fm Santé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4789731,
+          3.8804439
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153571567",
+        "amenity": "hospital",
+        "name": "La Fraternité D'etetak",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4726153,
+          3.8722214
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153602080",
+        "amenity": "hospital",
+        "name": "Moyo Polyclinique Yde Cameroun",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4728946,
+          3.8889699
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153605069",
+        "amenity": "hospital",
+        "name": "Centre Médical D'arrondissement D'oyom-abam",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4699327,
+          3.8909092
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153605070",
+        "amenity": "hospital",
+        "name": "De La Chance",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4714506,
+          3.8854464
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153605071",
+        "amenity": "hospital",
+        "name": "Cabinet Medical Luceole",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f7f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4726136,
+          3.87222
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153630929",
+        "amenity": "hospital",
+        "name": "Moyo Polyclinique Yde Cameroun",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f7e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4536169,
+          3.8996254
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153631714",
+        "amenity": "hospital",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f7d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4546043,
+          3.87429
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153631720",
+        "amenity": "hospital",
+        "name": "Centre Medical La Reference Nkolbisson",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f7c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4696971,
+          3.8764322
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153632455",
+        "amenity": "hospital",
+        "name": "Fondation Grace Divine",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f7b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4517418,
+          3.8450735
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153637347",
+        "amenity": "hospital",
+        "name": "Cabinet De Soins La Main Saine",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f7a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4531028,
+          3.8442102
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153637348",
+        "amenity": "hospital",
+        "name": "Le Samaritain Plus",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4202903,
+          3.8785427
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153639647",
+        "amenity": "hospital",
+        "name": "Centre Medico Social La Gloire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4719689,
+          3.8781255
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153644485",
+        "amenity": "hospital",
+        "name": "Centre Médical Fm Santé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4509075,
+          3.8802208
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153656846",
+        "amenity": "hospital",
+        "name": "Centre Medico Social Quality Heathcare Unit",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4584653,
+          3.8792849
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153661490",
+        "amenity": "hospital",
+        "name": "Centre Medical La Reference Nkolbisson",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4789721,
+          3.8804436
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7153670889",
+        "amenity": "hospital",
+        "name": "La Fraternité D'etetak",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4267763,
+          3.8678031
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7162068416",
+        "amenity": "hospital",
+        "name": "Hopital De Minkoameyos",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4476573,
+          3.8634866
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7162070518",
+        "amenity": "hospital",
+        "name": "Hopital Sainte Therese De L'enfant Jesus",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4684995,
+          3.8748078
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3091996",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VII",
+        "osm_id": "7162071312",
+        "amenity": "hospital",
+        "name": "La Passerelle Clinique",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5205968,
+          3.8824412
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "7171631844",
+        "amenity": "hospital",
+        "name": "abe",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5305912,
+          3.8751008
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181558671",
+        "amenity": "hospital",
+        "name": "Fondation Medical Andre Fouda",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f6f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5418195,
+          3.9066921
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181575187",
+        "amenity": "hospital",
+        "name": "Hôpital Général De Yaoundé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f6e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5421832,
+          3.9056222
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181575188",
+        "amenity": "hospital",
+        "name": "Chracerh",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f6d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5384298,
+          3.9080502
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181575503",
+        "amenity": "hospital",
+        "name": "Morgue Hgopy",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f6c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5404925,
+          3.9079539
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181575504",
+        "amenity": "hospital",
+        "name": "Morgue Hôpital Général",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f6b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5393564,
+          3.9080236
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181575505",
+        "amenity": "hospital",
+        "name": "Hôpital Gynéco Obstétrique Et Pédiatrique De Yaoundé",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f6a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5325788,
+          3.871349
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181578891",
+        "amenity": "hospital",
+        "name": "Hôpital De La Caisse",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5348132,
+          3.8796587
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181589544",
+        "amenity": "hospital",
+        "name": "Diagnosticis Cameroon",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5565574,
+          3.884159
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "7181592114",
+        "amenity": "hospital",
+        "name": "Centre Médico-social Vermeille",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5149788,
+          3.8208076
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "7205824643",
+        "amenity": "hospital",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.516406,
+          3.8199651
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746234",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé IV",
+        "osm_id": "7205824644",
+        "amenity": "hospital",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4773747,
+          3.8429778
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7229936372",
+        "amenity": "hospital",
+        "name": "centre de  santé saint Raphael",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4773389,
+          3.8429255
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7229970680",
+        "amenity": "hospital",
+        "name": "centre de santé la providence",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4775076,
+          3.843034
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7229970934",
+        "amenity": "hospital",
+        "name": "Cabinet de kinésiethérapie \"santé éspoir\"",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4772597,
+          3.842919
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230006182",
+        "amenity": "hospital",
+        "name": "cabinet medical la gloire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4772527,
+          3.8428414
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230011827",
+        "amenity": "hospital",
+        "name": "centre de santé la patience",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4773573,
+          3.8428949
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230032188",
+        "amenity": "hospital",
+        "name": "Cabinet Médicale saint Chrétien plus",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f5f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4773147,
+          3.8428049
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230053894",
+        "amenity": "hospital",
+        "name": "centre medical mere-enfants\"ANACO\"",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f5e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4772544,
+          3.8428862
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230058319",
+        "amenity": "hospital",
+        "name": "cabinet dentaire",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f5d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4772936,
+          3.8428969
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230072527",
+        "amenity": "hospital",
+        "name": "centre de chirurchie et génycologie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f5c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4773221,
+          3.8428715
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230080168",
+        "amenity": "hospital",
+        "name": "centre medicale sainte Mathilde",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f5b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.477252,
+          3.8428036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230091398",
+        "amenity": "hospital",
+        "name": "Clinique \"DOH'S\"DIAGNOSTIC",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f5a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4759697,
+          3.8518832
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746236",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé VI",
+        "osm_id": "7230339337",
+        "amenity": "hospital",
+        "name": "cabinet de soins \"la Rose\"",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5175834,
+          3.8570057
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746233",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé III",
+        "osm_id": "419588091",
+        "amenity": "hospital",
+        "name": "Centre Médico Social français",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6122833,
+          5.6544123
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837313",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Kouoptamo",
+        "osm_id": "3810629796",
+        "amenity": "hospital",
+        "name": "Hopital de District de kouoptamo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6134678,
+          5.652133
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "6312404",
+        "dept_osm_id": "2751229",
+        "arr_osm_id": "3837313",
+        "boundary": "administrative",
+        "reg_ref_cog": "OU",
+        "reg_name": "Ouest",
+        "dept_ref_cog": "OU03",
+        "dept_name": "Noun",
+        "arr_ref_cog": "OU03",
+        "arr_name": "Kouoptamo",
+        "osm_id": "3810629803",
+        "amenity": "hospital",
+        "name": "Centre de Santé des Soeurs",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5487163,
+          3.893107
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "3094331",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé V",
+        "osm_id": "5476667262",
+        "amenity": "hospital",
+        "name": null,
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.552321,
+          3.9316034
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2746230",
+        "arr_osm_id": "2746231",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE01",
+        "dept_name": "Mfoundi",
+        "arr_ref_cog": "CE01",
+        "arr_name": "Yaoundé I",
+        "osm_id": "6360603408",
+        "amenity": "hospital",
+        "name": "FONDATION MERE MARTINE",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2531207,
+          3.7794783
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750789",
+        "dept_osm_id": "2750797",
+        "arr_osm_id": "3822397",
+        "boundary": "administrative",
+        "reg_ref_cog": "CE",
+        "reg_name": "Centre",
+        "dept_ref_cog": "CE04",
+        "dept_name": "Nyong-et-Foumou",
+        "arr_ref_cog": "CE04",
+        "arr_name": "Akonolinga",
+        "osm_id": "6388884420",
+        "amenity": "hospital",
+        "name": "Hôpital de district d'Akonolinga",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74,
+          4.092
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bonamoussadi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.04
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Congo II",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693,
+          4.039
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Naimie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706,
+          4.041
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical De Police",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f4f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.734,
+          4.065
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Therese Strobel Annexe",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f4e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792,
+          4.098
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital De L Avenir",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f4d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.784,
+          4.027
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Nyalla",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f4c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.703,
+          4.022
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Des Capucines",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f4b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.686,
+          4.072
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hd Bonassama",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f4a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.748,
+          4.014
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Diboum 2",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.677,
+          4.083
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bonamikano",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.711,
+          4.029
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital De District",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.694,
+          4.036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Kouam Samuel",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.037
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical La Lumiere",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.733,
+          4.066
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical La Rose",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.738,
+          4.033
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Source De Vie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.768,
+          3.996
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital St Joseph",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.653,
+          4.094
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Cebec",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.714,
+          4.064
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hd Deido",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.655,
+          4.069
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Mambanda",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f3f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.704,
+          4.05
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital La Quintinie De Douala :Centre De Pneumo P",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f3e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.732,
+          4.019
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Soboum",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f3d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.782,
+          4.057
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Santa Helena",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f3c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.77,
+          4.003
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Ndogpassi 3 ",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f3b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.72,
+          4.05
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f3a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.805,
+          4.095
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Espoir Pk17",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.729,
+          4.015
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bonadiwoto",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.699,
+          4.036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Adlucem",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.788,
+          4.076
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Odlca(Annexe)",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.741,
+          4.091
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bonamoussadi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.731,
+          4.03
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital De District De Nylon",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.741,
+          4.031
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Oyack",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.777,
+          4.051
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Moise",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.727,
+          4.06
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bepanda",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74,
+          4.058
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Sainte Monique",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.736,
+          4.022
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Bethel",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f2f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.765,
+          4.054
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Des Palmiers",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f2e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.759,
+          4.065
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital General Douala",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f2d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.752,
+          4.059
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical De Sante Reproductive La Compassion",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f2c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.711,
+          4.059
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical De Bessengue",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f2b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.782,
+          4.064
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Odlca",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f2a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.029
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Des Urgences",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.048
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Laquintinie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7,
+          4.01
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Apostolique De Youpwe",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.807,
+          4.094
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Mt Cameroun",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.754,
+          4.1
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Almac",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706,
+          4.041
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Congo I",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.741,
+          4.091
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bonamoussadi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728,
+          4.07
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical La Life",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706,
+          4.024
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Les Palmiers",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.804,
+          4.094
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Espoir De Pk 17",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.673,
+          4.075
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Caht Albert Legrand",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f1f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753,
+          4.006
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical La Destinee",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f1e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.763,
+          4.002
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Prive Laic",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f1d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.761,
+          4.093
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Kotto",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f1c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.806,
+          3.988
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Dibamba",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f1b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.727,
+          4.059
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Fondation Tebo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f1a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753,
+          4.042
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma De Logbbaba",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.734,
+          4.044
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Ndogsimbi",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.731,
+          4.051
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Cite Sic",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.655,
+          4.098
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Sodiko",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.727,
+          4.017
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Le Beni",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.668,
+          4.089
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Adlucem",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.685,
+          4.034
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Militaire Region 2",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792,
+          4.098
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Avenir Annex Pk16",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.711,
+          4.038
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Nkololoun",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.702,
+          4.054
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Roseaux",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753,
+          4.009
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Ndogpassi 3 Centre",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f0f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.774,
+          3.99
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Deo Gratias",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f0e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.776,
+          4.061
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Odlca",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f0d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.749,
+          4.008
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medicale Les Mutualistes",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f0c",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.754,
+          4.036
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital De District De Logbaba",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f0b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.78,
+          4.049
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Deo Gratias",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f0a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.743,
+          4.006
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medicale La Paix",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f09",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693,
+          4.039
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Dr Tchuisseu",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f08",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.797,
+          3.99
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Gynecp",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f07",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.695,
+          4.035
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Lovanium",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f06",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.666,
+          4.087
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Adlucem",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753,
+          3.976
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3831995",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala VI",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.74,
+          4.006
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medicale Saint Jeremie",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f03",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.762,
+          4.052
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital De District Cp",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f02",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.647,
+          4.113
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832062",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala IV",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Cma Bonendale",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f01",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.704,
+          4.057
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Dr Kouo",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-f00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.726,
+          4.07
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070384",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala V",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Therese Strobel",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-eff",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.755,
+          4.005
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical La Grace",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-efe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.748,
+          4.023
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital Catholique De Diboum 1",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-efd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.688,
+          4.03
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Vitalis",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-efc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.711,
+          4.029
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070353",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala II",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Hopital De District",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-efb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.687,
+          4.044
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3070352",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala I",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Et Dentaire Du Palais",
+        "_predicate": "INTERSECTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "hopitaux.fid--79f94bfd_17118e3b9c7_-efa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.814,
+          4.063
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "reg_osm_id": "2750851",
+        "dept_osm_id": "2750984",
+        "arr_osm_id": "3832061",
+        "boundary": "administrative",
+        "reg_ref_cog": "LT",
+        "reg_name": "Littoral",
+        "dept_ref_cog": "LT01",
+        "dept_name": "Wouri",
+        "arr_ref_cog": "LT01",
+        "arr_name": "Douala III",
+        "osm_id": null,
+        "amenity": "Hopitaux",
+        "name": "Centre Medical Sainte Monique",
+        "_predicate": "INTERSECTS"
+      }
+    }
+  ]
